@@ -1,7 +1,3 @@
-### Hi there, I'm Adi! 👋
-
-## I'm a passionate coder that likes all things technology!
-
 <h2>About Me</h2>
 <h4>Languages</h4>
 
