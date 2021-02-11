@@ -1,3 +1,11 @@
+<div align="center">
+  <br>
+    <a href="https://github.com/adichaudhary/adichaudhary/blob/master/header.svg" align="center">
+      <img src="header.svg" width="800" height="400" >
+    </a>
+  <br>
+</div>
+
 <h2>About Me</h2>
 <h4>Languages</h4>
 
