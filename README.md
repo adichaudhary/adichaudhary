@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-    <a href="https://github.com/adichaudhary/adichaudhary/blob/master/header.svg" align="center">
+    <a href="https://raw.githubusercontent.com/adichaudhary/adichaudhary/654319365fffd512ea23ad8a73a339ec5f8d8e8d/header.svg" align="center">
       <img src="header.svg" width="800" height="400" >
     </a>
   <br>
