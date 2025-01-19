@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adi Chaudhary.</h2>
+<h2 align="center">Hi 👋! My name is Adi Chaudhary.</h2>
 
 ###
 
@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D5603AQGrn9M8tqnLbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724128852099?e=1743033600&v=beta&t=TuKiO0304K3L_x8WSGAVuin3Cv8aYxslhb0Xzga3Ehk"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -35,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="adichaudhary2025@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -46,8 +42,8 @@
 
 ###
 
+<div align="center">
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/adichaudhary/adichaudhary/output/snake.svg)
-
-###
+</div>
