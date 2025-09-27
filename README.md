@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Adi Chaudhary.</h2>
-<h4 align="center">I'm a highly motivated high school senior who is eager to gain experience in the field of computer science, especially artificial intelligence and software engineering. Strong work ethic and ready to take on new challenges to achieve my goals and contribute to society with research and real-life applications.</h4>
+<h4 align="center">I'm a highly motivated student at Purdue University who is eager to gain experience in the field of computer science, especially artificial intelligence and software engineering. Strong work ethic and ready to take on new challenges to achieve my goals and contribute to society with research and real-life applications.</h4>
 
 ###
 
@@ -48,3 +48,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/adichaudhary/adichaudhary/output/snake.svg)
 </div>
+
